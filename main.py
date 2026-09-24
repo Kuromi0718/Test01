@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # 1. FastAPI 설치 (Colab 환경에 임시 설치)
-!pip install fastapi uvicorn
+# !pip install fastapi uvicorn
 
 # 2. 아주 간단한 API 코드 작성
 from fastapi import FastAPI
